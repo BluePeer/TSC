@@ -1,4 +1,4 @@
-[back](../README.md)
+[back](../../README.md)
 # Basic stuff
 You can find the video [here](https://www.youtube.com/watch?v=5bNX74AK3Yo)
 
